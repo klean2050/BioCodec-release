@@ -1,6 +1,10 @@
+<div align="center">
+
 # BioCodec: Biosignal Tokenization Module
 
 Official implementation for the paper "Neural Codecs as Biosignal Tokenizers".
+
+</div>
 
 We recommend a conda environment with ``Python >= 3.12`` :
 
