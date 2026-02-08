@@ -1,4 +1,5 @@
 <div align="center">
+
 # BioCodec: Biosignal Tokenization Module
 
 Official implementation for the paper "Neural Codecs as Biosignal Tokenizers".
